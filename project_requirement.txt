@@ -1,0 +1,33 @@
+
+   ChityChetty
+     |
+     |------------ User Login 
+                     |--------Using Mobile Number
+                     |--------Using Email Id
+                     
+     |------------ Manage Profile
+                     a) Creating profile
+                     b) Updating Profile
+                     c) View Profile
+                     
+     |------------ Find Friends
+     |------------ Send Request
+     |------------ Manage Friend Request
+                     a) Accept
+                     b) Delete
+                     c) Block
+                     
+     |-------------Send Message to the friends
+                       |--text
+                       |--emoji
+                       |--Media (Images/Pdf/doc)
+     
+     |------------ Group-Chat
+                    a) Creating Group
+                    b) Adding memeber into the group
+                    c) Make another person admin while leaving the group
+                    
+     |------------Filter message of particular user in a group
+     |------------User can Story
+     |------------User can logout                  
+
